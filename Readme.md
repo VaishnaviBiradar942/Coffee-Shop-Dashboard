@@ -19,5 +19,5 @@ This Power BI dashboard analyzes the sales performance of a fictional coffee sho
 ## 📁 File
 - `Coffee shop.pbix`: Power BI dashboard file
 
-## 📬 Contact
-Created by Vaishnavi Biradar – [LinkedIn](https://www.linkedin.com/in/vaishnavibiradar942)
+## 🙋‍♀️ Developed by
+Vaishnavi Biradar – [LinkedIn](https://www.linkedin.com/in/vaishnavibiradar942)
