@@ -14,7 +14,7 @@ This Power BI dashboard analyzes the sales performance of a fictional coffee sho
 - KPIs like Revenue, Orders, Profit
 
 ## 📷 Sample Dashboard
-*(Insert screenshot of your dashboard here)*
+*<img width="1209" height="731" alt="Image" src="https://github.com/user-attachments/assets/379ac82a-755e-4b5e-ae70-ee1f54dac772" />*
 
 ## 📁 File
 - `Coffee shop.pbix`: Power BI dashboard file
